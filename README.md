@@ -1,1 +1,3 @@
-Test project for GitHub # Test-Project
+Hello everyone
+
+I am checking out GitHub
